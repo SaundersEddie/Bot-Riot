@@ -348,7 +348,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bot-riot-logo_0: -3448965663843375416
+      bot-riot-logo_1: -966167247508311980
+      bot-riot-logo_2: 7329752117623473105
+      bot-riot-logo_3: -2699137835760281748
+      bot-riot-logo_4: 7684727658315986564
+      bot-riot-logo_5: -1610534876625285613
+      bot-riot-logo_6: 611234198575094237
+      bot-riot-logo_7: -8077020481741380263
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
